@@ -1,4 +1,4 @@
-# Flutter-FingerPrint
+# Flutter-FingerPrint-Face-Auth
 
 Using local_auth plugin, authenticate yourself with your fingerprint or your face recognition.
 
